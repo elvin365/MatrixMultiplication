@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\elvin\source\repos\determinantforparall\determinantforparall\source.cpp(13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\elvin\source\repos\determinantforparall\determinantforparall\source.cpp(71): warning C4101: row: неиспользованная локальная переменная
+c:\users\elvin\source\repos\determinantforparall\determinantforparall\source.cpp(71): warning C4101: col: неиспользованная локальная переменная
+c:\users\elvin\source\repos\determinantforparall\determinantforparall\source.cpp(71): warning C4101: inner: неиспользованная локальная переменная
+  Создание кода
+  4 of 8 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  DeterminantForParall.vcxproj -> C:\Users\Elvin\source\repos\DeterminantForParall\x64\Release\DeterminantForParall.exe
